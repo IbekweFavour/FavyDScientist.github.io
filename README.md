@@ -8,7 +8,7 @@
 
 - 👨‍💻 All of my projects are available at [https://drive.google.com/drive/folders/1pVOHVEXWbaJJjbfgKrawVBF2WavwubEK](https://drive.google.com/drive/folders/1pVOHVEXWbaJJjbfgKrawVBF2WavwubEK)
 
-- 💬 Ask me about **java, python, power BI, Data science, Excel, SQL, Data Analytics**
+- 💬 Ask me about **Machine Learning, Deep Learning, java, python, power BI, Data science, Excel, SQL, Data Analytics**
 
 - 📫 How to reach me **ibekwefavour11@gmail.com**
 
